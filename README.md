@@ -1,6 +1,5 @@
 # Thai Province App: 6652410022 Edition
 
-<img src="images/task.jpg" alt="Task Image" width="250"/>
 <img width="520" height="34" alt="image" src="https://github.com/user-attachments/assets/3455964a-2cd8-401c-8a1e-4d1aac6a3dea" />
 
 ---
@@ -19,7 +18,7 @@
 
 <p>
   <img src="https://github.com/user-attachments/assets/a8d1fa96-ce15-4aee-961b-973312f0f564" alt="App Screenshot 1" width="200"/>
-  <img src="(https://github.com/user-attachments/assets/c186cd27-d6ae-4aef-9521-df9f9fe5632b" alt="App Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c186cd27-d6ae-4aef-9521-df9f9fe5632b" alt="App Screenshot 2" width="200"/>
 </p>
 
 <p>
